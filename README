@@ -1,0 +1,4 @@
+1	@category = N_("Toolkit")
+2	@title = N_("DefaultComment")
+3	@abstract = N_("Toolkit to set up default comment theme.")
+4	@description = N_("Sets up default comment theme.")
